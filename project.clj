@@ -1,4 +1,4 @@
-(defproject rop "0.4.1"
+(defproject dfcarpenter/rop "0.4.1"
   :description "Yet another Railway Oriented Programming in Clojure"
   :url "https://github.com/dfcarpenter/rop"
   :license {:name "MIT License"
