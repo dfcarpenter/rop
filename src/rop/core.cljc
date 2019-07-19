@@ -2,9 +2,9 @@
   "Implementation of Railway Oriented Programming based on
    https://gist.github.com/ah45/7518292c620679c460557a7038751d6d"
   (:require
-    [cats.builtin]
-    [cats.core :as m]
-    [cats.monad.either :as meither]))
+   [cats.builtin]
+   [cats.core :as m]
+   [cats.monad.either :as meither]))
 
 
 (def succeed

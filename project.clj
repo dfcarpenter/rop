@@ -1,6 +1,6 @@
 (defproject rop "0.4.1"
   :description "Yet another Railway Oriented Programming in Clojure"
-  :url "https://github.com/druids/rop"
+  :url "https://github.com/dfcarpenter/rop"
   :license {:name "MIT License"
             :url "http://opensource.org/licenses/MIT"}
 
@@ -10,5 +10,5 @@
                              [lein-kibit "0.1.6"]
                              [jonase/eastwood "0.2.5"]
                              [lein-eftest "0.5.2"]]
-                   :dependencies [[org.clojure/clojure "1.9.0"]
-                                  [funcool/struct "1.3.0"]]}})
+                   :dependencies [[org.clojure/clojure "1.10.0"]
+                                  [funcool/struct "1.4.0"]]}})
